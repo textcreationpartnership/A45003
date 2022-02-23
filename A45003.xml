@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble petition of 85. gentlemen and freeholders, and 15. ministers of the county palatine of Chester Preferred to His Majestie at York, the seventh of May, 1642. In behalf of themselves and others. Together with His Majesties gracious answer.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45003</idno>
+            <idno type="STC">Wing H3463A</idno>
+            <idno type="STC">ESTC R216252</idno>
+            <idno type="EEBO-CITATION">99827992</idno>
+            <idno type="PROQUEST">99827992</idno>
+            <idno type="VID">32418</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45003)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32418)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1911:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble petition of 85. gentlemen and freeholders, and 15. ministers of the county palatine of Chester Preferred to His Majestie at York, the seventh of May, 1642. In behalf of themselves and others. Together with His Majesties gracious answer.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I).</author>
+               </titleStmt>
+               <extent>[2], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Robert Barker, printer to the Kings most excellent Majestie: and by the assignes of John Bill,</publisher>
+                  <pubPlace>York :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Subscribed by M. Secretary Nicholas.</note>
+                  <note>Reproduction of the original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Petitions --  Early works to 1800.</term>
+               <term>Chester (England) --  History --  Early works to 1800.</term>
+               <term>York (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32418:1"/>
+            <!-- PDF PAGE 31 -->
+            <pb facs="tcp:32418:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 31 -->
+            <p>The humble PETITION Of 85. Gentlemen and Free-Holders, and 15. Miniſters of the County Palatine of CHESTER.</p>
+            <p>Preferred to His Majeſtie at YORK, the ſeventh of May, 1642. In behalf of themſelves and others.</p>
+            <p>Together with His Majeſties gracious Anſwer.</p>
+            <p>YORK: Printed by ROBERT BARKER, Printer to the Kings moſt Excellent Majeſtie: And by the Aſſignes of JOHN BILL. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:32418:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 32 -->
+            <pb n="1" facs="tcp:32418:2"/>
+            <!-- PDF PAGE 32 -->
+            <head>TO THE KINGS <hi>MOST EXCELLENT</hi> MAJESTIE.</head>
+            <opener>Humbly ſheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat though our Fears and Diſtractions have been many and great, and much encreaſed by your Maie<g ref="char:EOLhyphen"/>ſties abſence from your Parliament, yet were we never deſtitute of hope, that the Fears and Prayers of your dutifull and truly-affected Subiects might be powerfull with your Royall Breſt, ſo far as to imbrace, with tenderneſſe, your whole Kingdom, in its repreſentative Bo<g ref="char:EOLhyphen"/>dy, your great Councell. But now our Sorrows are doubled, our Fears multipli<g ref="char:EOLhyphen"/>ed, and even the little hope we had fails us, hearing the report of your Maieſties
+<pb n="2" facs="tcp:32418:3"/>
+               <!-- PDF PAGE 33 -->Reſolution to undertake a dangerous voy<g ref="char:EOLhyphen"/>age into <hi>Ireland,</hi> whereon we reflect with much terrour and amazement; yet we are confident your Maieſtie will pardon our love and duty, if in our hearts we can<g ref="char:EOLhyphen"/>not conſent to a Journey wherein your Royall Perſon is expoſed to variety of pe<g ref="char:EOLhyphen"/>rill by Land and Sea, Winde and Water making no difference betwixt the greateſt King and the meaneſt Subiect: and if God (the Guardian and Preſerver of Prin<g ref="char:EOLhyphen"/>ces) ſhould ſafely waft you over, yet your Maieſties Perſon cannot, in our apprehen<g ref="char:EOLhyphen"/>ſion, be ſecure amongſt ſo many Popiſh, Cruell, and Barbarous Rebels, who have forgot Religion, Piety, and even Huma<g ref="char:EOLhyphen"/>nity it ſelf, murthering your Maieſties innocent Proteſtant Subiects, without re<g ref="char:EOLhyphen"/>ſpect of Age, Sex, or Condition, thereby rendring themſelves unworthy, and inca<g ref="char:EOLhyphen"/>pable of any Grace or favour from Your Maieſtie, their Actions calling for Your exemplary Juſtice upon them, and our hearts affections imploring Your Gracious conſideration of theſe enſuing particulars.</p>
+            <p n="1">
+               <pb n="3" facs="tcp:32418:3"/>
+               <!-- PDF PAGE 33 -->
+1 To comfort our hearts by deſerting your iourney into <hi>Ireland,</hi> and by reſiding where you may with more conveniency and ſecurity, conſult with your great Councell.</p>
+            <p n="2">2 To conſider to what danger (if your Reſolution for <hi>Ireland</hi> continue) You expoſe us by the Popiſh Faction, when your Maieſtie ſhall leave us naked, we not being put into a poſture of De<g ref="char:EOLhyphen"/>fence, to repell the rage and attempts of the enemies to our Religion, who (we have too iuſt cauſe to fear) but wait for an opportunity to bring to birth their cruell Conceptions; and what ſo great ad<g ref="char:EOLhyphen"/>vantage can they hope for, as by your Maieſties abſence.</p>
+            <p n="3">3 To adviſe, Whether this Journey will not much retard the intended Reliefe for <hi>Ireland,</hi> ſince upon the firſt Rumour, ma<g ref="char:EOLhyphen"/>ny who were minded to ſubſcribe, de<g ref="char:EOLhyphen"/>mur in their proceedings, and others wiſh they might recall what they have ſubſcribed, and not to deprive us at once of that poor remainder of hope we have
+<pb n="4" facs="tcp:32418:4"/>
+               <!-- PDF PAGE 34 -->to reap further good by the endeavours of your Parliament, whereof we ſhall de<g ref="char:EOLhyphen"/>ſpair, when your preſence ſhall be want<g ref="char:EOLhyphen"/>ing to perfect their Propoſalls and Con<g ref="char:EOLhyphen"/>cluſions.</p>
+            <p n="4">4 To conſider how <hi>David</hi> (that Reli<g ref="char:EOLhyphen"/>gious and Valiant King) offering to go in Perſon againſt his Rebels, was by his people (in the tenderneſſe of his Perſon) humbly diſſwaded from that Reſolution, they valuing his Perſon above ten thou<g ref="char:EOLhyphen"/>ſand of their own: which gracious and provident Petition <hi>David</hi> graciouſly yeeld<g ref="char:EOLhyphen"/>ed unto, ſaying, <hi>What ſeemeth you beſt, that will I do;</hi> which we humbly beg may be the effect of your Majeſties Anſwer to your humble Petitioners, who forbear to preſſe your Maieſtie with number of Per<g ref="char:EOLhyphen"/>ſons, or multitude of Hands (though plen<g ref="char:EOLhyphen"/>tifully enabled to either) knowing your Maieſties diſaffection to both.</p>
+            <closer>And we ſhall ever pray, &amp;c.</closer>
+         </div>
+         <div type="reply_to_petition">
+            <pb n="5" facs="tcp:32418:4"/>
+            <!-- PDF PAGE 34 -->
+            <opener>
+               <dateline>At the Court at YORK <date>.9. May 1642.</date>
+               </dateline>
+            </opener>
+            <head type="sub">His Majeſty hath given me ex<g ref="char:EOLhyphen"/>preſſe command to give you this His Anſwer to your Petition.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hat Hee ſees plainly that this Petition of yours hath been fra<g ref="char:EOLhyphen"/>med without having heard the Anſwer His Majeſtie gave to His Parliament, upon their Petition to Him for de<g ref="char:EOLhyphen"/>ſiſting from His Iourney into <hi>Ire<g ref="char:EOLhyphen"/>land;</hi> for He cannot think that that Countrey (from whence He hath received formerly ſo good expreſſi<g ref="char:EOLhyphen"/>ons of their loyall Intentions, by
+<pb n="6" facs="tcp:32418:5"/>
+               <!-- PDF PAGE 35 -->two former Petitions preſented long ſince to Him and the Parlia<g ref="char:EOLhyphen"/>ment) would have been ſo much miſtaken, as to have made this Petition, after they had ſeen and well conſidered His Majeſties ſaid Anſwer. And His Majeſtie ob<g ref="char:EOLhyphen"/>ſerves very well, that this Petition is not like others, which by an un<g ref="char:EOLhyphen"/>timely Zeal, have deſired Him to return to His Parliament; you onely deſiring Him there to reſide, where with more conveniency and ſecurity He may conſult with His great Councell, then by going into <hi>Ireland:</hi> His Majeſtie being confi<g ref="char:EOLhyphen"/>dent, That your well weighing of His Anſwers concerning that ſub<g ref="char:EOLhyphen"/>ject, hath been the cauſe that you have not imitated ſome few other Countreys in that particular; And that you have well conſidered the Rebellious Affront offered to Him at <hi>Hull,</hi> by a hoſtile oppoſition of
+<pb n="7" facs="tcp:32418:5"/>
+               <!-- PDF PAGE 35 -->His entrance; and therefore be<g ref="char:EOLhyphen"/>leeves that the ſame Reaſon which made you, at this time, expreſſe your tender care of His Perſon, and the former good expreſſions you made of your Loyalty and right-ſet Af<g ref="char:EOLhyphen"/>fections to the good of the whole Kingdom, may ſooner induce you to petition the Parliament to ap<g ref="char:EOLhyphen"/>ply themſelves to a right under<g ref="char:EOLhyphen"/>ſtanding of His Majeſties wayes and intentions, and to do Him Iu<g ref="char:EOLhyphen"/>ſtice for that Affront, then make you to preferre any ſuch ill-ground<g ref="char:EOLhyphen"/>ed Petition. And that you may be the better informed of His Ma<g ref="char:EOLhyphen"/>jeſtieſties proceedings in thoſe par<g ref="char:EOLhyphen"/>ticulars; He recommends to your view and conſideration, His An<g ref="char:EOLhyphen"/>ſwers, to the Declaration preſented to Him at <hi>New-market,</hi> to the Peti<g ref="char:EOLhyphen"/>tion preſented to Him at <hi>York</hi> the <hi>26.</hi> of March laſt, concerning His journey into Ireland, His two
+<pb n="8" facs="tcp:32418:6"/>
+               <!-- PDF PAGE 36 -->Meſſages and Declaration con<g ref="char:EOLhyphen"/>cerning <hi>Hull,</hi> all which, when it ſhall be fully repreſented to the reſt of your County, He doubts not but that you will reſt very well ſatiſfied of His conſtant Reſolution for the maintaining of, and governing you by the Law of the Land, His un<g ref="char:EOLhyphen"/>moveable Reſolutions for the main<g ref="char:EOLhyphen"/>tenance and defence of the true Proteſtant Profeſſion, and the ſup<g ref="char:EOLhyphen"/>preſſion and chaſtiſing of the barba<g ref="char:EOLhyphen"/>rous Iriſh Rebellion. As for your apprehenſions of danger of being left naked, and not put into a po<g ref="char:EOLhyphen"/>ſture of Defence, His Maieſtie aſ<g ref="char:EOLhyphen"/>ſures you, That He will take care that it ſhall be done in the true old legall way which hath been uſed in this Kingdom, without bringing in ſtrangers to govern you, or ad<g ref="char:EOLhyphen"/>mitting new and exorbitant Pow<g ref="char:EOLhyphen"/>ers, derogating both from His Ma<g ref="char:EOLhyphen"/>jeſties undoubted Legall Authori<g ref="char:EOLhyphen"/>ty,
+<pb n="9" facs="tcp:32418:6"/>
+               <!-- PDF PAGE 36 -->and the Liberty of the Subject which, as He hath conſtantly deni<g ref="char:EOLhyphen"/>ed, ſo He expects, and no wayes doubts, but that you will give O<g ref="char:EOLhyphen"/>bedience to that, and that onely, which ſhall proceed from His Majeſtie in a legall way.</p>
+            <closer>
+               <signed>
+                  <hi>Subſcribed by M. Secretary <hi>Nicholas.</hi>
+                  </hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
